@@ -5,11 +5,11 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "./dist"),
-    filename: "alanngai-oss-web-uploader.js",
+    filename: "vue-router-refresh-helper.js",
     libraryTarget: "umd",
     globalObject: "this",
     // libraryExport: 'default',
-    library: "alanngai-oss-web-uploader",
+    library: "vue-router-refresh-helper",
   },
   module: {
     rules: [

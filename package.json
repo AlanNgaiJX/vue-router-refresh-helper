@@ -1,6 +1,6 @@
 {
   "name": "vue-router-refresh-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue router refresh helper",
   "main": "dist/vue-router-refresh-helper.js",
   "scripts": {
